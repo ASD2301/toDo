@@ -17,18 +17,6 @@ Una aplicación de escritorio para gestionar tareas diarias, desarrollada en Pyt
 - Python 3.6 o superior
 - Tkinter (incluido en la instalación estándar de Python)
 
-## Instalación
-
-1. Clona o descarga este repositorio
-2. Navega al directorio del proyecto:
-   ```
-   cd toDo
-   ```
-3. Instala las dependencias:
-   ```
-   pip install -r requirements.txt
-   ```
-
 ## Uso
 
 1. Ejecuta la aplicación:
